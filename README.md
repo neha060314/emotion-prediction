@@ -1,5 +1,4 @@
 # ARVYAX Emotional Intelligence System
-## Understand → Decide → Guide
 
 ---
 
